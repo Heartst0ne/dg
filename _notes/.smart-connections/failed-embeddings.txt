@@ -1,4 +1,6 @@
 
+202311181444.md
+AboutTheGarden.md
 HOMEPAGE.md
 HOMEPAGE.md#七天内创建的笔记
 HOMEPAGE.md#最近编辑的笔记
@@ -29,6 +31,7 @@ README.md#这是什么
 幕布笔记/2023-10-02.md
 幕布笔记/2023-10-09.md
 幕布笔记/2023-10-17.md
+幕布笔记/2023-11-06.md
 幕布笔记/2023-11-14.md
 幕布笔记/class.md
 幕布笔记/leo的笔记示范.md
