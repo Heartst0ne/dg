@@ -15,9 +15,6 @@ dg-publish: true
 </p>
 <p align="center">📩订阅 <a href="https://oldwinter.zhubai.love/">我的newsletter通讯</a> 🛶随缘更</p>
 
->[!TIP] 重大更新💡  
-> 迎接全新的obsidian 1.0版本，本库也正式发布v1.0版本，请到release中下载。
-
 ## 这是什么
 
 - 双链笔记的[[最佳实践]]。完整快照了我每天使用[[Obsidian]]写的笔记、用的插件和工作流。我将把obsidian从入门到精通的过程经验，渐进式地总结记录，也许你能跟我一起，从这个神器中发现更大的世界。
